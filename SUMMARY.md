@@ -6,6 +6,7 @@
 
 * [‼️ Règlement IG](informations-importantes/reglement-ig.md)
 * [‼️ Règlement Discord](informations-importantes/reglement-discord.md)
+* [‼️ Contribuer](CONTRIBUTING.Md)
 * [❔ Commandes](informations-importantes/commandes.md)
 
 ## LE GAMEPLAY
