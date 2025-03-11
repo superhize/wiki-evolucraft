@@ -30,7 +30,7 @@ Vous pouvez modifier la description de la ville, visualiser les invitations envo
 
 ### <mark style="color:green;">Téléportation</mark>
 
-Ce bouton permet de se téléporter au point de spawn <mark style="color:green;">**`/home`**</mark> de votre ville. Cela facilite les déplacements rapides pour les membres de la ville.
+Ce bouton permet de se téléporter au point de spawn <mark style="color:green;">**`/v home`**</mark> de votre ville. Cela facilite les déplacements rapides pour les membres de la ville.
 
 ### <mark style="color:green;">Banque</mark>
 

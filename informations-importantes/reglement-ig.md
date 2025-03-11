@@ -70,6 +70,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 
 * L'Anti-AFK (circuit d'eau, Auto-Jump, etc.) est interdit.
 * Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
+* Il est interdit de voler des farms aux autres joueurs sans leur accord.
 * Il est interdit d'utiliser une machine à pêche ou de farmer avec un véhicule (bateau, wagon, etc).
 * La vente d’items en jeu contre l’argent réel est interdite.
 * La vente de cosmétiques, d’items de quête, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés, de shulkers contenant des items interdits à la vente est interdite.
@@ -85,7 +86,7 @@ Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket
 
 * **Concernant les mondes constructions et les villes :**
   * Il est interdit de créer des villes dans le seul but de récupérer des coffres, de piller des structures, etc.
-  * Il est interdit de dégrader le paysage par des fermes sans aménagement urbain (ferme à mob en pierre, grands champs sans esthétisme, etc.). Cette règle s’applique aussi pour les bâtiments imposants en l’air, qui ne relèvent pas d’une construction de ville.
+  * Il est recommandé de ne pas dégrader le paysage par des fermes sans aménagement urbain (ferme à mob en pierre, grands champs sans esthétisme, etc.). Cette règle s’applique aussi pour les bâtiments imposants en l’air, qui ne relèvent pas d’une construction de ville.
   * Toute ville peut **être unclaim après 30 jours d'inactivité** du maire ou du député.
 
 {% hint style="warning" %}
@@ -119,33 +120,54 @@ Si votre système ne respecte pas les règles du serveur, celui-ci sera supprim�
 *   **Tous les mods donnant un avantage sur les autres joueurs :**
 
     * XRay, Fly-Mod, Auto-click, Auto-pêche
-    * Schematica Printer
+    * Schematica Printer ou Easyplace
+    * Freecam ou ce qui peut permettre de voler des farms.
 
     Cette liste n'est pas exhaustive.
 
 ### <mark style="color:green;">Article F : Les doubles comptes</mark>
 
 * Les doubles-comptes sont limités à 1 par utilisateur.
-*   Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé.
 
-    Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe d'Evolucraft en ticket.
 
-### <mark style="color:green;">Article G : L'AFK</mark>
 
-* Au bout de cette durée, vous serez téléporté au HUB.
-* Il est interdit de contourner l'Anti-AFK.
+* Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, incluant le classement farmium et le classement de votes.
+* Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs, pass…).
+* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK spawner.
+*   Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
 
-### <mark style="color:green;">Article H : Triche et usebugs</mark>
+    Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de Evolucraft en ticket.
 
+### <mark style="color:green;">Article G : L'AFK & Inactivité</mark>
+
+*   L'AFK est autorisé sur le serveur pendant 15 minutes au minimum ou plus selon votre grade **(uniquement si vous ne réalisez pas d’actions)**. Au-delà, vous serez téléporté au spawn.
+
+
+* Il est interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
+* **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
+* Merci de signaler pour une pancarte dans le spawn de votre ville & par un ticket une absence de plus d'un mois.
+
+
+
+* Au bout d'un mois d'inactivité d'un maire, sous certaines conditions, nous nous gardons le droit d'unclaim une ville.
+* Vous pouvez désormais récupérer le lead d'une ville sous ces conditions :
+  * Si le maire est totalement inactif depuis 60 jours
+  * Si le maire ne répond pas sur discord et/ou est totalement injoignable
+  * Seul un maire adjoint peut faire la demande pour récupérer la ville
+
+
+
+* ### <mark style="color:green;">Article H : Triche et usebugs</mark>
 * Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
 * Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
 * Les macros, Auto-Sell, Auto-Click et le changement de touche de clic sont interdits. Le blocage du clic pour taper des mobs ou poser des blocs est interdit.
-* Le poser-casser est interdit.
+* Le poser-casser est interdit, sauf pour réaliser les parchemins.
 
 ### <mark style="color:green;">Article I : Les donjons</mark>
 
 * Toute tentative de usebug, sortie de map ou autres lors des donjons est interdite.
 * Il est interdit de rester AFK dans les donjons.
+* Quitter un donjon volontairement, sans raison valable, est sanctionnable.
 
 ### <mark style="color:green;">Article J : Les remboursements</mark>
 

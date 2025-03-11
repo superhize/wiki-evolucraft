@@ -4,6 +4,10 @@ description: Retrouvez ici toutes les informations concernant les donjons
 
 # 🏛️ Les Donjons
 
+{% embed url="https://www.youtube.com/watch?index=3&list=PL1QLnkRl9WVyR0eGUtFoTo8a9MBJHBFwa&v=NtB-gvzz8mE" %}
+**Tuto : Les Nouveautés MMO/RPG d'Evolucraft**
+{% endembed %}
+
 ## <mark style="color:green;">Informations Générales</mark>
 
 Les donjons sont une nouvelle fonctionnalité sur Evolucraft, offrant des aventures passionnantes aux explorateurs en quête d'action.&#x20;
@@ -16,33 +20,89 @@ Les joueurs peuvent choisir de parcourir les donjons seuls ou en groupe (Max - 4
 
 ## <mark style="color:green;">Types de Donjons</mark>
 
-Il existe 4 types de donjons, chacun associé à un biome spécifique :
+Il existe 8 types de donjons, chacun associé à un biome spécifique :
 
 * Forêt
 * Jungle
 * Marais
 * Toundra
+* Désert
+* Mesa
+* Savane
+* Nether
+
+De plus, deux donjons temporaires sont actuellement disponibles (événements spéciaux) :
+
+* Draconique
+* Abyssal
+* Noël
+* Halloween
 
 Chaque donjon propose des monstres différents selon son biome.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p><strong>Aperçu d'un donjon Forêt</strong></p></figcaption></figure>
 
-## <mark style="color:green;">Difficulté des Donjons</mark>
+## <mark style="color:green;">Répartition des Donjons</mark>
 
-Les donjons sont classés en quatre niveaux de difficulté avec des pourcentages d'apparition différents :
+Les donjons sont classés en cinq niveaux de difficulté avec des pourcentages d'apparition différents :
 
-* <mark style="color:green;">**Commun**</mark> (50%)
-* <mark style="color:yellow;">**Rare**</mark> (30%)
-* <mark style="color:blue;">**Épique**</mark> (15%)
-* <mark style="color:purple;">**Légendaire**</mark> (5%)
+<mark style="color:green;">**Monde Ressources**</mark>
 
-Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes.
+| Type de Donjon                                    | Répartition (%)                               | Nombre                                      |
+| ------------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
+| <mark style="color:green;">**Commun**</mark>      | <mark style="color:green;">**49,19%**</mark>  | <mark style="color:green;">**23,6**</mark>  |
+| <mark style="color:yellow;">**Rare**</mark>       | <mark style="color:yellow;">**29,51%**</mark> | <mark style="color:yellow;">**14,2**</mark> |
+| <mark style="color:blue;">**Épique**</mark>       | <mark style="color:blue;">**15,05%**</mark>   | <mark style="color:blue;">**7,2**</mark>    |
+| <mark style="color:purple;">**Légendaire**</mark> | <mark style="color:purple;">**0,00%**</mark>  | <mark style="color:purple;">**0**</mark>    |
+| <mark style="color:orange;">**Draconique**</mark> | <mark style="color:orange;">**1,25%**</mark>  | <mark style="color:orange;">**1**</mark>    |
+| <mark style="color:blue;">**Abyssal**</mark>      | <mark style="color:blue;">**10,00%**</mark>   | <mark style="color:blue;">1</mark>          |
+| <mark style="color:orange;">**Halloween**</mark>  | <mark style="color:orange;">**1,25%**</mark>  | <mark style="color:orange;">1</mark>        |
+| <mark style="color:red;">**Noël Commun**</mark>   | <mark style="color:red;">**1,25%**</mark>     | <mark style="color:red;">**16**</mark>      |
+| <mark style="color:red;">**Noël Épique**</mark>   | <mark style="color:red;">**1,25%**</mark>     | <mark style="color:red;">**16**</mark>      |
+| **Total**                                         | **100,00%**                                   | **80**                                      |
+
+<mark style="color:red;">**Nether**</mark>
+
+| Type de Donjon                                | Répartition (%)                               | Nombre                                      |
+| --------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
+| <mark style="color:green;">**Commun**</mark>  | <mark style="color:green;">**52,50%**</mark>  | <mark style="color:green;">**5,25**</mark>  |
+| <mark style="color:yellow;">**Rare**</mark>   | <mark style="color:yellow;">**31,50%**</mark> | <mark style="color:yellow;">**3,15**</mark> |
+| <mark style="color:purple;">**Épique**</mark> | <mark style="color:purple;">**16,00%**</mark> | <mark style="color:purple;">**1,6**</mark>  |
+| **Total**                                     | **100,00%**                                   | **10**                                      |
+
+{% hint style="info" %}
+Plus un donjon est rare, plus il est difficile, mais les récompenses sont également plus grandes. La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.
+{% endhint %}
+
+## <mark style="color:green;">Récompenses par Donjon</mark>
+
+<table data-header-hidden><thead><tr><th width="130" align="center"></th><th align="center"></th><th width="148" align="center"></th><th width="144" align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Commun</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Épique</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Draconique</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Abyssal</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune x2</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Classe Aléatoire Rare</strong></mark></td><td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune (x2)</strong></mark></td><td align="center"><mark style="color:green;"><strong>Classe Aléatoire Commune x2</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Parchemin Commun</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Parchemin Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Classe Aléatoire Rare</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Classe Aléatoire Rare</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>10,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:green;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:yellow;"><strong>20,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:yellow;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>50,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:yellow;"><strong>Parchemin Rare</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Parchemin Rare</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>15,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:green;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:yellow;"><strong>50,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:yellow;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>100,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Parchemin Épique</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>25,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:green;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:yellow;"><strong>100,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:yellow;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>250,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:orange;"><strong>50,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:orange;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>75,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Crystal Donjon Commun</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Crystal Donjon Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Crystal Donjon Épique</strong></mark></td><td align="center"><mark style="color:orange;"><strong>100,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:orange;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>125,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Bonbon à la Pomme</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Bonbon à l'Orange (x2)</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Bonbon à la Myrtille (x2)</strong></mark></td><td align="center"><mark style="color:orange;"><strong>150,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:orange;"><strong>💰</strong></mark></a></td><td align="center"><mark style="color:blue;"><strong>175,000</strong></mark> <a href="https://emojiterra.com/fr/monnaie/"><mark style="color:blue;"><strong>💰</strong></mark></a></td></tr><tr><td align="center"><mark style="color:green;"><strong>Plume de Fly 10min</strong></mark></td><td align="center"><mark style="color:green;"><strong>Plume de Fly 30min</strong></mark></td><td align="center"><mark style="color:purple;"><strong>Plume de Phoenix</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Coeur de Dragon (x4)</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Pince de Crabe Abyssale (x2)</strong></mark></td></tr><tr><td align="center"><mark style="color:purple;"><strong>Plume de Phoenix</strong></mark></td><td align="center"><mark style="color:purple;"><strong>Plume de Phoenix</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Arme 1 Rare</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Coeur de Dragon (x6)</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Bonbon à l'Orange (x2)</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Arme 1 Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Arme 1 Commune</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Arme 2 Rare</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Bonbon à l'Orange (x2)</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Pet Boss Abyssal</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Arme 2 Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Arme 2 Commune</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Arme 3 Rare</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Oeuf de Familier Draconique</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Exp Classe (x5,000)</strong></mark></td></tr><tr><td align="center"><mark style="color:green;"><strong>Arme 3 Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Arme 3 Commune</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Arme 4 Rare</strong></mark></td><td align="center"><mark style="color:orange;"><strong>Exp Classe (x5,000)</strong></mark></td><td align="center">X</td></tr><tr><td align="center"><mark style="color:green;"><strong>Arme 4 Commune</strong></mark></td><td align="center"><mark style="color:green;"><strong>Arme 4 Commune</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Arme 1 Épique</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Arme 1 Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Arme 2 Épique</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Arme 2 Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Arme 3 Épique</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Arme 3 Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Arme 4 Épique</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Arme 4 Rare</strong></mark></td><td align="center"><mark style="color:blue;"><strong>Pet Donjon</strong></mark></td><td align="center">X</td><td align="center">X</td></tr><tr><td align="center">X</td><td align="center"><mark style="color:yellow;"><strong>Pet Donjon</strong></mark></td><td align="center">X</td><td align="center">X</td><td align="center">X</td></tr></tbody></table>
+
+|                                                                                                                            |                                                                                                                             |                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:orange;">**Halloween**</mark>                                                                           | <mark style="color:red;">**Noël Commun**</mark>                                                                             | <mark style="color:red;">**Noël Épique**</mark>                                                                              |
+| <mark style="color:yellow;">**Classe Aléatoire Rare**</mark>                                                               | <mark style="color:red;">**Parchemin Noël**</mark>                                                                          | <mark style="color:red;">**Parchemin Noël**</mark>                                                                           |
+| <mark style="color:orange;">**Parchemin Halloween**</mark>                                                                 | <mark style="color:green;">**10,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:green;">**40,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/)  |
+| <mark style="color:blue;">**50,000**</mark> [<mark style="color:blue;">**💰**</mark>](https://emojiterra.com/fr/monnaie/)  | <mark style="color:green;">**15,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:green;">**60,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/)  |
+| <mark style="color:blue;">**100,000**</mark> [<mark style="color:blue;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:green;">**25,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:green;">**100,000**</mark> [<mark style="color:green;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) |
+| <mark style="color:blue;">**250,000**</mark> [<mark style="color:blue;">**💰**</mark>](https://emojiterra.com/fr/monnaie/) | <mark style="color:red;">**Sucre d'orge x1**</mark>                                                                         | <mark style="color:red;">**Sucre d'orge x2**</mark>                                                                          |
+| <mark style="color:orange;">**Citrouille scintillante x2**</mark>                                                          | <mark style="color:green;">**Bonbon à la pomme x1**</mark>                                                                  | <mark style="color:orange;">**Bonbon à l'Orange x2**</mark>                                                                  |
+| <mark style="color:purple;">**Bonbon à la myrtille x2**</mark>                                                             | <mark style="color:red;">**Œuf de familier Givré x1**</mark>                                                                | <mark style="color:red;">**Œuf de familier Givré x1**</mark>                                                                 |
+| <mark style="color:orange;">**Œuf de familier Halloween x1**</mark>                                                        | <mark style="color:orange;">**Exp Classe (x250)**</mark>                                                                    | <mark style="color:orange;">**Exp Classe (x1500)**</mark>                                                                    |
+| <mark style="color:orange;">**Exp Classe (x5,000)**</mark>                                                                 | <mark style="color:red;">**Flocons x250**</mark>                                                                            | <mark style="color:red;">**Flocons x1500**</mark>                                                                            |
+| **X**                                                                                                                      | **X**                                                                                                                       | <mark style="color:blue;">**Clé Givrée x1**</mark>                                                                           |
+
+
+
+{% hint style="info" %}
+Tous les monstres peuvent lâcher un coffre contenant une gemme, dont la rareté dépend du donjon. De plus, les mini-boss et boss laissent souvent des packs d'armes, qui permettent d'améliorer sa classe.
+{% endhint %}
 
 ## <mark style="color:green;">A</mark><mark style="color:green;">**pparition des Donjons**</mark>
 
-Il y aura toujours 80 donjons ouverts en permanence dans la map ressource.&#x20;
+Il y aura toujours 80 donjons ouverts en permanence sur la carte des ressources. Pour le Nether, seulement 10 donjons sont ouverts en permanence.&#x20;
 
-Lorsqu'un donjon est complété, un nouveau apparaît à un autre endroit de la map.
+Les donjons draconiques et abyssaux sont accessibles de la même manière que les autres donjons. Lorsqu'un donjon est complété, un nouveau apparaît à un autre endroit de la carte.
 
 ## <mark style="color:green;">Fonctionnement des Donjons</mark>
 
@@ -63,9 +123,3 @@ Il existe plusieurs types de salles, notamment :
 * Salle monstre
 * Salle mini-boss
 * Salle de boss
-* Salle de protection
-* Salle de butin
-
-## <mark style="color:green;">Dif</mark><mark style="color:green;">**ficulté en fonction des joueurs**</mark>
-
-La vie et les dégâts des monstres varient en fonction du nombre de joueurs dans le donjon.

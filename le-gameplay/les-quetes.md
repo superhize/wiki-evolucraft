@@ -4,6 +4,10 @@ description: Retrouvez ici toutes les informations concernant les quêtes
 
 # 📜 Les Quêtes
 
+{% embed url="https://www.youtube.com/watch?index=2&list=PL1QLnkRl9WVyR0eGUtFoTo8a9MBJHBFwa&v=xhcQDkb9DuA" %}
+**Tuto : Comment gagner de l'argent sur Evolucraft**
+{% endembed %}
+
 Les quêtes constituent un pilier essentiel de votre aventure, vous permettant de gagner de l'argent ainsi que de précieuses récompenses tout au long de votre parcours sur Evolucraft.
 
 Que vous soyez un débutant cherchant à explorer le serveur ou un aventurier chevronné en quête de nouveaux défis, les quêtes offrent une variété d'opportunités pour enrichir votre expérience de jeu.
@@ -37,6 +41,9 @@ Cette catégorie comprend des quêtes disponibles en 5 niveaux de difficulté :&
 * <mark style="color:blue;">**Difficile**</mark>
 * <mark style="color:purple;">**Expert**</mark>
 * <mark style="color:red;">**Impossible**</mark>
+* <mark style="color:orange;">**Halloween**</mark>
+* <mark style="color:red;">**Noël Easy**</mark>
+* <mark style="color:red;">**Noël Hard**</mark>
 
 Ces quêtes sont obtenables dans les caisses, récompenses votes, récompenses jobs, les Rewards ainsi que dans les donjons.&#x20;
 

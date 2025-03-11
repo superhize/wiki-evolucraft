@@ -4,6 +4,10 @@ description: Retrouvez ici toutes les informations concernant les métiers
 
 # 👷 Les Métiers
 
+{% embed url="https://www.youtube.com/watch?index=2&list=PL1QLnkRl9WVyR0eGUtFoTo8a9MBJHBFwa&v=xhcQDkb9DuA" %}
+**Tuto : Comment gagner de l'argent sur Evolucraft**
+{% endembed %}
+
 ## <mark style="color:green;">Informations Générales</mark>
 
 La totalité des choses à connaître sur les métiers est à retrouver dans le menu <mark style="color:green;">**`/jobs`**</mark>
@@ -49,6 +53,27 @@ Les boosters sont activés par un seul joueur et profitent à l'ensemble du serv
 Les boosters peuvent être obtenus de différentes manières, comme des récompenses de quête, des achats dans la boutique du serveur ou des événements spéciaux.&#x20;
 
 Une fois activés, les boosters restent actifs pendant une période déterminée, ce qui permet aux joueurs de maximiser leur efficacité pendant cette période.
+
+## <mark style="color:green;">Informations des différents Boost</mark>
+
+{% hint style="info" %}
+<mark style="color:green;">**Les boosts des compagnons**</mark>**&#x20;:** Les boosts des compagnons s'accumulent lorsque plusieurs compagnons sont actifs en même temps.&#x20;
+
+Par exemple, si vous avez deux compagnons actifs, les boosts qu'ils fournissent seront additionnés pour augmenter vos avantages.\
+
+
+<mark style="color:green;">**Les boosts de récompenses**</mark>**&#x20;:** Concernant les boosts de récompenses disponibles sur le serveur, ceux obtenus à travers les quêtes, les paliers de métiers et les caisses, le principe est que si plusieurs boosts sont actifs sur votre personnage, seul le boost le plus puissant sera pris en compte.&#x20;
+
+Cela signifie que si vous avez plusieurs boosts actifs, ce sera celui qui offre le plus d'avantages qui sera appliqué.\
+
+
+<mark style="color:green;">**Boosts de la boutique**</mark>**&#x20;:** En ce qui concerne les boosts obtenus dans la boutique, il est important de noter que contrairement aux boosts des compagnons et aux boosts récupérables via les quêtes et les paliers de métiers, les boosts de la boutique ne s'additionnent pas entre eux.&#x20;
+
+Seul le boost le plus puissant que vous avez activé sera pris en compte pour améliorer vos performances.\
+
+
+<mark style="color:green;">**Cumul des boosts**</mark>**&#x20;:** Les trois types de boosts disponibles sur le serveur (boosts des compagnons, boosts récupérables via les quêtes, les paliers de métiers et les caisses, et boosts de la boutique) s'additionnent entre eux pour offrir des avantages cumulatifs.
+{% endhint %}
 
 ## <mark style="color:green;">Commandes</mark>
 
